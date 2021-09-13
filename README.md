@@ -1,1 +1,3 @@
 # Casperlabs ERC20 Typescript Client
+
+DRAFT VERSION, UNTESTED, DO NOT, USE AT OWN RISK
